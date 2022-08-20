@@ -1,0 +1,6 @@
+[submodule "libs/simde"]
+	path = libs/simde
+	url = https://github.com/simd-everywhere/simde.git
+[submodule "libs/benchmark"]
+	path = libs/benchmark
+	url = https://github.com/google/benchmark.git
